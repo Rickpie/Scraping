@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'open-uri'
+gem 'nokogiri'
+gem 'capybara'
+gem 'capybara/dsl'
+gem 'selenium-webdriver'
